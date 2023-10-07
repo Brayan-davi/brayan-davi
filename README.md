@@ -1,13 +1,11 @@
-## Bem-vindo(a) ao perfil do Dev em brayan-davi
- 😁
+## Bem-vindo(a) ao perfil dobrayan davi 
+  😁
 
  <div>
    <a href="https://github.com/brayan-davi
 ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayan-davi
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayan-davi
-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -21,8 +19,8 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/brayan.dasaoli
-" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gemeos@brayan-davi
+  <a href="https://instagram.com/brayan.dasaoli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https:/brayan-davi/github.com//brayan-davi/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-
